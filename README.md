@@ -11,7 +11,7 @@
 
 
 ###### 效果1
-![效果1](https://github.com/dearHaoGeGe/ShoppingCart/blob/master/pic/1.jpg?raw=true)
+![效果1](https://github.com/dearHaoGeGe/ShoppingCart/blob/master/pic/1.png?raw=true)
 
 
 ###### 效果2
