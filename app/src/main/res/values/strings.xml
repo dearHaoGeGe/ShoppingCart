@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <string name="search_menu">搜索</string>
+    <string name="_18">0</string>
+    <string name="go_pay">去结算</string>
+    <string name="￥0.00">￥0.00</string>
+</resources>
